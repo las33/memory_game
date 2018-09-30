@@ -9,8 +9,8 @@ Made using Vuforia Augmented Reality SDK and Unity.
 [link to demo][video]
 
 #### Android
-.apk in the [APK][apk] folder
-markers in the  [Marcadores][marcadores] folder
+ - .apk in the [APK][apk] folder.
+ - markers in the  [Marcadores][marcadores] folder.
 
 [marcadores]:<https://github.com/las33/memory_game/tree/master/Marcadores>
 [apk]:<https://github.com/las33/memory_game/tree/master/APK>
